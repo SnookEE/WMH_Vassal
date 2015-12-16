@@ -9959,4 +9959,4 @@
             </VASSAL.build.widget.BoxWidget>
         </VASSAL.build.widget.PanelWidget>
     </VASSAL.build.module.PieceWindow>
-</VASSAL.launch.BasicModule>
+</VASSAL.launch.BasicModule>
