@@ -6057,7 +6057,7 @@
         <entry>Player One</entry>
         <entry>Player Two</entry>
     </VASSAL.build.module.PlayerRoster>
-    <VASSAL.build.module.RandomTextButton addToTotal="0" faces="Scenario 1: Destruction,Scenario 2: Supply and Demand,Scenario 3: Close Quarters,Scenario 4: Ammunition Run,Scenario 5: Incursion,Scenario 6: Chemical Reaction,Scenario 7: Outflank,Scenario 8: Incoming,Scenario 9: Into the Breach,Scenario 10: Rally Point,Scenario 11: Process of Elimination,Scenario 12: Fire Support" hotkey="" icon="" nDice="1" name="Scenario" numeric="false" plus="0" prompt="false" reportFormat="** $name$ = $result$ *** " reportTotal="false" sortDice="false" text="Randomise Scenario" tooltip="Scenario"/>
+    <VASSAL.build.module.RandomTextButton addToTotal="0" faces="Scenario 1: Destruction,Scenario 2: Two Fronts,Scenario 3: Close Quarters,Scenario 4: Fire Support,Scenario 5: Incoming,Scenario 6: Incursion,Scenario 7: Outflank,Scenario 8: Recon" hotkey="" icon="" nDice="1" name="Scenario" numeric="false" plus="0" prompt="false" reportFormat="** $name$ = $result$ *** " reportTotal="false" sortDice="false" text="Randomise Scenario" tooltip="Scenario"/>
     <VASSAL.build.module.PieceWindow hidden="false" hotkey="" icon="" name="Deployment" text="Deployment" tooltip="Deployment">
         <VASSAL.build.widget.PanelWidget entryName="Overlays" fixed="false" nColumns="3" vert="false">
             <VASSAL.build.widget.ListWidget divider="600" entryName="Overlays" height="400" width="800">
